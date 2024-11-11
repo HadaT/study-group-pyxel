@@ -1,3 +1,10 @@
+# title: Pyxel Dodge
+# author: Takuma Hada
+# desc: A Pyxel game example
+# site: https://github.com/HadaT/study-group-pyxel
+# license: MIT
+# version: 1.0
+
 import pyxel
 import random
 
